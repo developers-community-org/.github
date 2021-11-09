@@ -29,7 +29,7 @@
 - You're not allowed to import additionsl libraries and frameworks without asking first.
 - You're not allowed to copy/paste other contributor's already submitted work.
 
-#  We hope you enjoy Open Sourcing 🙌
+#  We hope you enjoy Contributing 🙌
 
 ### Teaching Sessions on GitHub will be conducted soon.. stay tuned 👇
 [Developers Community](https://bio.link/developerscomm)
